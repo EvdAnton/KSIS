@@ -22,7 +22,7 @@ namespace Lab4POp3Ksis
             {
                 client.Connect("pop.gmail.com", 995, true);
 
-                client.Authenticate("evdanton2000@gmail.com", "fcefy3605009", AuthenticationMethod.UsernameAndPassword);
+                client.Authenticate("*********", "***********", AuthenticationMethod.UsernameAndPassword);
 
                 if (client.Connected) 
                 {
