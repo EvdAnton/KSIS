@@ -1,0 +1,12 @@
+C:\Users\evdan\My_Project\Projects\Lab4Ksis\Lab4POp3Ksis\bin\Debug\Lab4POp3Ksis.exe.config
+C:\Users\evdan\My_Project\Projects\Lab4Ksis\Lab4POp3Ksis\bin\Debug\Lab4POp3Ksis.exe
+C:\Users\evdan\My_Project\Projects\Lab4Ksis\Lab4POp3Ksis\bin\Debug\Lab4POp3Ksis.pdb
+C:\Users\evdan\My_Project\Projects\Lab4Ksis\Lab4POp3Ksis\bin\Debug\OpenPop.dll
+C:\Users\evdan\My_Project\Projects\Lab4Ksis\Lab4POp3Ksis\obj\Debug\Lab4POp3Ksis.csprojAssemblyReference.cache
+C:\Users\evdan\My_Project\Projects\Lab4Ksis\Lab4POp3Ksis\obj\Debug\Lab4POp3Ksis.Form1.resources
+C:\Users\evdan\My_Project\Projects\Lab4Ksis\Lab4POp3Ksis\obj\Debug\Lab4POp3Ksis.Properties.Resources.resources
+C:\Users\evdan\My_Project\Projects\Lab4Ksis\Lab4POp3Ksis\obj\Debug\Lab4POp3Ksis.csproj.GenerateResource.cache
+C:\Users\evdan\My_Project\Projects\Lab4Ksis\Lab4POp3Ksis\obj\Debug\Lab4POp3Ksis.csproj.CoreCompileInputs.cache
+C:\Users\evdan\My_Project\Projects\Lab4Ksis\Lab4POp3Ksis\obj\Debug\Lab4POp3Ksis.csproj.CopyComplete
+C:\Users\evdan\My_Project\Projects\Lab4Ksis\Lab4POp3Ksis\obj\Debug\Lab4POp3Ksis.exe
+C:\Users\evdan\My_Project\Projects\Lab4Ksis\Lab4POp3Ksis\obj\Debug\Lab4POp3Ksis.pdb

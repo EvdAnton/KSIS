@@ -1,0 +1,7 @@
+C:\Users\evdan\My_Project\Projects\Lab3TCP_WhoIs\TCP_WhoIS\bin\Debug\TCP_WhoIS.exe.config
+C:\Users\evdan\My_Project\Projects\Lab3TCP_WhoIs\TCP_WhoIS\bin\Debug\TCP_WhoIS.exe
+C:\Users\evdan\My_Project\Projects\Lab3TCP_WhoIs\TCP_WhoIS\bin\Debug\TCP_WhoIS.pdb
+C:\Users\evdan\My_Project\Projects\Lab3TCP_WhoIs\TCP_WhoIS\obj\Debug\TCP_WhoIS.csprojAssemblyReference.cache
+C:\Users\evdan\My_Project\Projects\Lab3TCP_WhoIs\TCP_WhoIS\obj\Debug\TCP_WhoIS.csproj.CoreCompileInputs.cache
+C:\Users\evdan\My_Project\Projects\Lab3TCP_WhoIs\TCP_WhoIS\obj\Debug\TCP_WhoIS.exe
+C:\Users\evdan\My_Project\Projects\Lab3TCP_WhoIs\TCP_WhoIS\obj\Debug\TCP_WhoIS.pdb

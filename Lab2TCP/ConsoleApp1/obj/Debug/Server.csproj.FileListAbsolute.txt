@@ -1,0 +1,14 @@
+C:\Users\evdan\My_Project\Projects\Proba\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\evdan\My_Project\Projects\Proba\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\evdan\My_Project\Projects\Proba\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\evdan\My_Project\Projects\Proba\ConsoleApp1\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\evdan\My_Project\Projects\Proba\ConsoleApp1\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\evdan\My_Project\Projects\Proba\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\evdan\My_Project\Projects\Proba\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\evdan\My_Project\Projects\Lab2TCP\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\evdan\My_Project\Projects\Lab2TCP\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\evdan\My_Project\Projects\Lab2TCP\ConsoleApp1\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\evdan\My_Project\Projects\Lab2TCP\ConsoleApp1\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\evdan\My_Project\Projects\Lab2TCP\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\evdan\My_Project\Projects\Lab2TCP\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\evdan\My_Project\Projects\Lab2TCP\ConsoleApp1\bin\Debug\ConsoleApp1.pdb

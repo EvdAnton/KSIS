@@ -1,0 +1,6 @@
+C:\Users\evdan\My_Project\Projects\Proba2\Server\bin\Debug\Server.exe.config
+C:\Users\evdan\My_Project\Projects\Proba2\Server\bin\Debug\Server.exe
+C:\Users\evdan\My_Project\Projects\Proba2\Server\bin\Debug\Server.pdb
+C:\Users\evdan\My_Project\Projects\Proba2\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\evdan\My_Project\Projects\Proba2\Server\obj\Debug\Server.exe
+C:\Users\evdan\My_Project\Projects\Proba2\Server\obj\Debug\Server.pdb
